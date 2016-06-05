@@ -187,3 +187,22 @@ img{
 .logo, .secao{
 	padding: 0 1%;
 }
+.logo,
+.busca,
+.barra-nav,
+.menu-principal {
+    display: inline-block;
+    vertical-align: middle;
+}
+.menu-principal li {
+    float: left;
+}
+header {
+    padding: 0.5em 0;
+}
+.destaques {
+    margin-top: 1em;
+}
+.barra-nav {
+    margin: 0.4em 0;
+}
